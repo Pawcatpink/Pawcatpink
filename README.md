@@ -1,7 +1,7 @@
-<h1 align="center">Hey! ♡</h1>
+<h1 align="center">Hiyah! ♡</h1>
 
 <p align="center">
-  <i>I love stay with my friend with all my heart. ♡</i>
+  <i>There’s always a way to make things better. ♡</i>
 </p>
 
 <p align="center">

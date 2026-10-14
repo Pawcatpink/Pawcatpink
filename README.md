@@ -4,8 +4,6 @@
   <i>There’s always a way to make things better. ♡</i>
 </p>
 
-<br>
-
 <p align="center">
   ♡ ────────────── ୨୧ ────────────── ♡
 </p>
@@ -17,8 +15,6 @@
 <p align="center">
   ♡ ────────────── ୨୧ ────────────── ♡
 </p>
-
-<br>
 
 <p align="center">
   <i>♡ My two kinnies of KNY &lt;3 ♡</i>

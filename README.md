@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="./assets/kny-rounded.png"
-    width="550"
-    style="border-radius: 20px;"
-  >
+  <img src="./assets/kny-rounded.png" width="550">
 </p>
   ♡ ────────────── ୨୧ ────────────── ♡
 </p>

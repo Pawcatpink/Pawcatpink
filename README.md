@@ -1,27 +1,31 @@
-<h1 align="center">Hiyah! ♡</h1>
+<div align="center">
 
-<p align="center">
-  <i>There’s always a way to make things better. ♡</i>
-</p>
+# Hiyah! ♡
+
+<i>There’s always a way to make things better. ♡</i>
+
+<br><br>
+
+♡ ────────────── ୨୧ ────────────── ♡
 
 <br>
 
-<p align="center">
-  ♡ ────────────୨୧──────────── ♡
-</p>
+<img
+  src="https://i.pinimg.com/1200x/83/2b/5a/832b5aa4ae05a8e139969fa128d709bb.jpg"
+  width="550"
+  alt="My two kinnies of KNY"
+>
 
-<p align="center">
-  <img
-    src="https://i.pinimg.com/1200x/83/2b/5a/832b5aa4ae05a8e139969fa128d709bb.jpg"
-    width="550"
-    alt="Nezuko and Mitsuri"
-  >
-</p>
+<br><br>
 
-<p align="center">
-  ♡ ────────────୨୧──────────── ♡
-</p>
+♡ ────────────── ୨୧ ────────────── ♡
 
-<p align="center">
-  <i>My two kinnies of KNY &lt;3</i>
-</p>
+<br>
+
+<i>♡ My two kinnies of KNY &lt;3 ♡</i>
+
+<br><br>
+
+୨୧ ────────────── ♡ ────────────── ୨୧
+
+</div>

@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/kny-rounded.png" width="550" alt="My two kinnies of KNY">
+  <img
+    src="./assets/kny-rounded.png"
+    width="550"
+    style="border-radius: 20px;"
+  >
 </p>
-
-<p align="center">
   ♡ ────────────── ୨୧ ────────────── ♡
 </p>
 

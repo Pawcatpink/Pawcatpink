@@ -4,13 +4,30 @@
   <i>There’s always a way to make things better. ♡</i>
 </p>
 
+<br>
+
 <p align="center">
   ♡ ────────────── ୨୧ ────────────── ♡
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/83/2b/5a/832b5aa4ae05a8e139969fa128d709bb.jpg" width="550">
-</p>
+<table align="center">
+<tr>
+<td style="
+  border: 3px solid #d8a7d8;
+  border-radius: 25px;
+  padding: 8px;
+  background: linear-gradient(135deg, #f8d8ec, #d9d0f5, #f4d9e8);
+">
+
+<img
+  src="./assets/kny-rounded.png"
+  width="550"
+  alt="My two kinnies of KNY"
+>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   ♡ ────────────── ୨୧ ────────────── ♡
@@ -18,4 +35,8 @@
 
 <p align="center">
   <i>♡ My two kinnies of KNY &lt;3 ♡</i>
+</p>
+
+<p align="center">
+  ୨୧ ────────────── ♡ ────────────── ୨୧
 </p>

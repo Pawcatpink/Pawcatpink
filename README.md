@@ -20,15 +20,3 @@
   <i>♡ My two kinnies of KNY &lt;3 ♡</i>
 </p>
 
-<p align="center">
-  ୨୧ ────────────── ♡ ────────────── ୨୧
-</p>
-</p>
-
-<p align="center">
-  <i>♡ My two kinnies of KNY &lt;3 ♡</i>
-</p>
-
-<p align="center">
-  ୨୧ ────────────── ♡ ────────────── ୨୧
-</p>

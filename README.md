@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/kny-rounded.png" width="550" alt="My two kinnies of KNY">
+  <img src="./assets/kny-rounded.png" width="500" alt="My two kinnies of KNY">
 </p>
 
 <p align="center">

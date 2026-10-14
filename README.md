@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp12683824.jpg" width="950">
+  <img src="https://wallpapercave.com/wp/wp12683824.jpg" width="850">
 </p>
 
 <p align="center">

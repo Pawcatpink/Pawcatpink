@@ -1,31 +1,21 @@
-<div align="center">
+<h1 align="center">Hiyah! ♡</h1>
 
-# Hiyah! ♡
+<p align="center">
+  <i>There’s always a way to make things better. ♡</i>
+</p>
 
-<i>There’s always a way to make things better. ♡</i>
+<p align="center">
+  ♡ ────────────── ୨୧ ────────────── ♡
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/83/2b/5a/832b5aa4ae05a8e139969fa128d709bb.jpg" width="550">
+</p>
 
-♡ ────────────── ୨୧ ────────────── ♡
+<p align="center">
+  ♡ ────────────── ୨୧ ────────────── ♡
+</p>
 
-<br>
-
-<img
-  src="https://i.pinimg.com/1200x/83/2b/5a/832b5aa4ae05a8e139969fa128d709bb.jpg"
-  width="550"
-  alt="My two kinnies of KNY"
->
-
-<br><br>
-
-♡ ────────────── ୨୧ ────────────── ♡
-
-<br>
-
-<i>♡ My two kinnies of KNY &lt;3 ♡</i>
-
-<br><br>
-
-୨୧ ────────────── ♡ ────────────── ୨୧
-
-</div>
+<p align="center">
+  <i>♡ My two kinnies of KNY &lt;3 ♡</i>
+</p>

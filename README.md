@@ -1,4 +1,4 @@
-<h1 align="center">Hiyah! ♡</h1>
+<h2 align="center">Hiyah! ♡</h2>
 
 <p align="center">
   <i>There’s always a way to make things better. ♡</i>
